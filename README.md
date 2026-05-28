@@ -1,1 +1,1 @@
-# ndsplib-hifi_iQ
+# ndsplib-HiFi_iQ
