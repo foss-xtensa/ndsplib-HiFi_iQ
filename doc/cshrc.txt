@@ -1,0 +1,10 @@
+#setenv LM_LICENSE_FILE 
+#alias make "/usr/xtensa/stools-8.1/bin/make"
+
+alias rj6 "setenv XTENSA_SYSTEM /XtDevTools/install/tools/RJ-2026.6-linux/XtensaTools/config/; set path = (  /fac/vol11/audio/xtensa/XtDevTools/install/tools/RJ-2026.6-linux/XtensaTools/bin $path); setenv XPLORER_W_AUTOMATION_PLUGIN /fac/vol11/audio/xtensa/Xplorer-12.0.6/xplorer"
+
+alias hifi_iq "setenv XTENSA_CORE hifiiq_ao_co7_BM"
+
+alias cores 'xt-run --show-config=cores'
+alias make "/usr/xtensa/stools-8.1/bin/make"
+
