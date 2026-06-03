@@ -1,6 +1,6 @@
 # How to Build and Run the Source Code in Linux environment
   * Get the latest or required version of HiFi iQ NDSP Code from GitHub 
-  * https://github.com/foss-xtensa/ndsplib-HiFi_iQ
+  * https://github.com/foss-xtensa/ndsplib-HiFi_iQ/NDSP_HiFi_iQ
 
 ## The source code is organized as follows.
   * **build** - contains the make file 
