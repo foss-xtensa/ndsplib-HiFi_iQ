@@ -21,9 +21,9 @@
   * Navigate to the testdriver directory:   …/NDSP_REL_V0_8/build/project/xtclang/testdriver
   * **CLEAN:**  make clean -j  
   * **BUILD:**
-               make all -j
-               make all -j MEM_MODEL=X    //Where X = 1 or 2 
-               Ex : make all -j MEM_MODEL=1  //for performance tests 
+  *  make all -j
+  *  make all -j MEM_MODEL=X    //Where X = 1 or 2 
+  * Ex : make all -j MEM_MODEL=1  //for performance tests 
 
 
 ## Running the executable: 
