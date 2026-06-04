@@ -5,7 +5,7 @@ Note: This is the NDSP early access release for HiFi iQ DSP using RJ-2026.6 tool
 # The repo is organized as follows.
 
 ## xws:
-  * This reease of the NDSP contains two xws files.
+  * This release of the NDSP contains two xws files.
 
   * An xws each, for the library-kernels and the test-driver.
     Ex : HiFi_iQ_VFPU_library_v0_8_0.xws & HiFi_iQ_VFPU_demo_v0_8_0.xws
@@ -17,7 +17,7 @@ Note: This is the NDSP early access release for HiFi iQ DSP using RJ-2026.6 tool
   * Release Date : Jun-2026.  
   * This release is targeted for xt-clang compiler
   * All testing and performance measurements have been done on xt-clang using RJ-2026.6 version of the Xtensa Xplorer and tools.  
-  * four different core configurations are used to build and verify this package
+  * Four different core configurations are used to build and verify this package
 	hifiiq_ao_so7_BM:    Speed Optimized core with All options enabled 
 	hifiiq_ao_co7_BM:    Cycle Optimized core with All options enabled 
 	hifiiqBase_so7_BM:   Speed Optimized Base Core (doesnot contain Half Precision, Single Precision or Double precision floating point unit and AI Unit) 
